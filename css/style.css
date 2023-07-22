@@ -36,3 +36,8 @@
 .componentes button:hover {
     background-color: #d9534f;
 }
+
+.botao-preto {
+
+    background-color: black;
+}
